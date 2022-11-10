@@ -9,3 +9,6 @@
  - Grundschule
  - Gymnasium
  - Hochschule
+
+## Bild
+![Alternativtext](bild.png)
